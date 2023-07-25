@@ -33,9 +33,11 @@ export const projects = [
   },
 ];
 
-
+//try to make this an even amount
 export const skills = [
   "C#",
+  "Java",
+  "Unity",
   "JavaScript",
   "PHP",
   "HTML",
