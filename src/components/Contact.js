@@ -46,8 +46,8 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                97 Warren St. <br />
-                New York, NY 10007
+                Wandering the Internet<br />
+                Winnipeg, MB
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
@@ -55,12 +55,12 @@ export default function Contact() {
                 EMAIL
               </h2>
               <a className="text-indigo-400 leading-relaxed">
-                reedbarger@email.com
+                cgraham@winnipeg.ca
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
-              <p className="leading-relaxed">123-456-7890</p>
+              <p className="leading-relaxed">204-794-4574</p>
             </div>
           </div>
         </div>
