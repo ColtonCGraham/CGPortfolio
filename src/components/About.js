@@ -10,9 +10,7 @@ export default function About() {
             <br className="hidden lg:inline-block" />I make Games, Web Apps, and more!
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            This page is a work in progressl, I'm looking to add more portfolio pieces, as well as a dev-log of my current projects!
           </p>
           <div className="flex justify-center">
             <a
