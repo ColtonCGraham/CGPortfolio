@@ -25,9 +25,9 @@ export const projects = [
   },
   {
     title: "Simple Store Scaffold",
-    subtitle: "Image uploads and database queries on a lightweight store style page, was focusing on learning here, not making anything beautiful.",
+    subtitle: "Php and Active Admin",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Image uploads and database, store layout, was focusing on learning here, not making anything beautiful.",
     image: "./project-4.gif",
     link: "",
   },
