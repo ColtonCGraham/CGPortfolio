@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "Example1",
-    subtitle: "MERN Stack",
+    title: "Broken Seals",
+    subtitle: "World Generation",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "World generation of my game Broken Seals, hex map, with an editable world tuner!",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "",
   },
   {
-    title: "Example2",
-    subtitle: "React and Python",
+    title: "Broken Seals",
+    subtitle: "Tactical Battles",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Take your citizens and battle with them on the tactical map, combat inspired by Final Fantasy Tactics",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "",
   },
   {
-    title: "Example3",
-    subtitle: "React and Firebase",
+    title: "Sports League Website",
+    subtitle: "Ruby and Rails",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A small project aimed at populating a rails database, and making highly naviagable content.",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "",
   },
   {
-    title: "Example4",
-    subtitle: "React Hooks",
+    title: "Simple Store Scaffold",
+    subtitle: "Image uploads and database queries on a lightweight store style page, was focusing on learning here, not making anything beautiful.",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "",
   },
 ];
 
